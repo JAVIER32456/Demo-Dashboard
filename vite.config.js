@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"https://JAVIER32456.github.io/Demo-Dashboard",
+  base:"https://JAVIER32456.github.io/demo-dashboard",
 })
